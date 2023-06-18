@@ -22,7 +22,7 @@ Member 3 -Tran Quang Ngoc Cao: He has a strong foundation in Java and C++, and i
 
 
 
-Member 4 - Hoa An Do—has the most basic knowledge of Java, HTML, CSS, and Js. He does not have much experience working on a project; however, he is willing to try his best to contribute to the group. He would love to help with the front-end user interface and also the back-end part, but the most important thing for him is to gain more skills by working as a team, and learning how we have to function in order to meet the requirements of a certain project.  
+Member 4 - Hoa An Do—has the most basic knowledge of Java, HTML, CSS, and Js. He does not have much experience working on a project; however, he is willing to try his best to contribute to the group. He would love to help with the front-end user interface and also the back-end part, but the most important thing for him is to gain more skills by working as a team, and learning how we have to function in order to meet the requirements of a certain project. Overall, he's new to web development so every new things will be a valuable knowledge.
 
 
 Member 5 - Anil - He is a sharp individual with strong communication 
