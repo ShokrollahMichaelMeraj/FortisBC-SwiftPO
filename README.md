@@ -4,27 +4,6 @@
 SwiftPO x FortisBC Web Application
 
 
-
-
-## First Group Meeting:
-
-During our first group meeting, we had the opportunity to introduce ourselves and get to know each other better. With a team of five members, we engaged in a fruitful discussion to analyze each team member's abilities, backgrounds, and experiences. This allowed us to identify our strengths and areas of expertise, enabling us to determine how best to utilize our skills within the project.
-
-Each member shared their previous experiences related to software engineering, web development, and project management.
-
-## Through open and collaborative dialogue, we identified the following skills and strengths within our team:
-
-- Member 1: Gourav Bhardwaj possesses strong front-end development skills with expertise in HTML, CSS, and JavaScript, in addition to basic knowledge of databases and libraries like React. He also practiced creating a few basic web applications for his portfolio. Gourav will mainly focus on developing the front-end user interface of our application, but will also contribute to the back-end programming as he wants to gain more experience in it.
-
-- Member 2: Shokrollah Michael Meraj possesses foundational front-end development skills with experience in HTML, CSS, and JavaScript. Although his expertise in these languages is still growing, he has actively worked on small personal projects to enhance his knowledge. Regarding back-end development, Michael has worked with PostgreSQL, a popular open-source relational database. As part of his portfolio, he has collaborated with other developers to create landing and login pages for a web based application using react. In the upcoming project, Michael will focus on front-end and back-end development, aiming to create a cohesive user experience and tailor the project to meet customer requirements. Additionally, Michael will be taking on the role of Scrum Master to ensure efficient project management. While his experience in back-end programming is limited, he is determined to expand his knowledge and skills in this area, as he seeks to broaden his expertise in various software development subjects and areas.
-
-- Member 3: Tran Quang Ngoc Cao has a strong foundation in Java and C++, and is willing to learn more about web development and database management. He feels thrilled to learn new skills like front-end designing, communicating and working as a team, etc. He also has experience in working on a project, therefore some of the essential skills for doing a computer science project such as GitHub management, and dividing work between team members are also going to be his crucial contributions to the project.
-
-- Member 4: Hoa An Do has the most basic knowledge of Java, HTML, CSS, and Js. He does not have much experience working on a project; however, he is willing to try his best to contribute to the group. He would love to help with the front-end user interface and also the back-end part, but the most important thing for him is to gain more skills by working as a team, and learning how we have to function in order to meet the requirements of a certain project.  
-
-- Member 5: Anil Kumar is a sharp individual with strong communication and interpersonal skills. He is just starting out his third year in Computing Science and is eager to learn new things in the world of Applied Sciences. His problem-solving skills, along with his knowledge of several programming languages like C++ and Java, will be very useful to this group project. He will be looking to create as much of an impact in the group decisions as possible as he also possesses great leadership and group management qualities which are a few of the most important things to create chemistry and maintain a healthy environment among the group members. 
-
-
 ___
 
 ## Abstract:
@@ -45,11 +24,12 @@ ___
 - Existing systems (APIs):
 
    - Azure API: https://learn.microsoft.com/en-us/rest/api/azure/
-   - 
+   - Other Possible APIs: 
+        - SAP and Digital Signiture API
 
 
 ## Features:
-
+The main features of the IS Consulting Procurement workflow automation project include user authentication through Azure AD, dynamic form generation for efficient data collection, vendor management integration with SAP or SharePoint for streamlined vendor selection and retrieval, attachment handling for supporting documents, a request status tracking system to monitor the progress of each PO request, and notification functionality to keep stakeholders informed at each stage of the process.
 
 ### Authentication and Login via Azure
 
@@ -70,35 +50,24 @@ ___
 
 
 ### How is this problem solved currently (if at all)?
-
+There are companies who offer automated purchase orders, however, they are not customizable towards users specification.
 
 
 ### How will this project make life better? Is it educational or just for entertainment?
-
+SwiftPO does not directly help educate anyone, neither will it be used for entertainment. The main purpose of SwiftPO is to streamline the procurement workflow for Information systems. Its main purpose will be to simplify request processes and make vendor management efficient with proper compliance and documentation.
 
 
 ### Who is the target audience? Who will use your app or play your game?
+The intended recipients and utilizers of the IS PO Request web application are individuals who are affiliated with FortisBC's Information Systems division. This will include IS project personnel tasked with interfacing with vendors and launching procurement procedures within the IS department. 
 
 
 
 ## What is the scope of your project?
 
 
-
-### Does this project have many individual features or one main feature (a possibility with many subproblems)? These are the ‘epics’ of your project.
-
-
-
-### What are some sample stories/scenarios? For example, as a regular user of your site, what types of things can I do?  These are the ‘stories’ of your project.
-
-
-
 ### Be honest, is the amount of work required in this proposal enough for five group members?
 
 The amount of work required in this proposal is substantial and encompasses various aspects such as system integration, user authentication, dynamic form generation, error-checking, and workflow tracking. With such a diverse and demanding set of tasks, assigning five group members allows for efficient task allocation, collaboration, and effective management of the project's complexity.
-
-
-
 
 
 
