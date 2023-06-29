@@ -1,6 +1,4 @@
-# CMPT-276 Project Proposal
-
-## Project Name: 
+## Employer Project Name: 
 SwiftPO x FortisBC Web Application
 
 
@@ -18,14 +16,14 @@ ___
 - Web Application: 
 
 
-- Github Repository: https://github.com/ShokrollahMichaelMeraj/FortisBC-SwiftPO
+- GitHub Repository: https://github.com/ShokrollahMichaelMeraj/FortisBC-SwiftPO
 
 
 - Existing systems (APIs):
 
    - Azure API: https://learn.microsoft.com/en-us/rest/api/azure/
    - Other Possible APIs: 
-        - SAP and Digital Signiture API
+        - SAP and Digital Signature API
 
 
 ## Features:
@@ -50,11 +48,11 @@ ___
 
 
 ### How is this problem solved currently (if at all)?
-There are companies who offer automated purchase orders, however, they are not customizable towards users specification.
+There are companies that offer automated purchase orders, however, they are not customizable to users' specifications.
 
 
 ### How will this project make life better? Is it educational or just for entertainment?
-SwiftPO does not directly help educate anyone, neither will it be used for entertainment. The main purpose of SwiftPO is to streamline the procurement workflow for Information systems. Its main purpose will be to simplify request processes and make vendor management efficient with proper compliance and documentation.
+SwiftPO does not directly help educate anyone, nor will it be used for entertainment. The main purpose of SwiftPO is to streamline the procurement workflow for Information systems. Its main purpose will be to simplify request processes and make vendor management efficient with proper compliance and documentation.
 
 
 ### Who is the target audience? Who will use your app or play your game?
