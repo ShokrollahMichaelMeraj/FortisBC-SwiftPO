@@ -1,4 +1,4 @@
-package cmpt276.project.demo;
+package cmpt276.project.project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
