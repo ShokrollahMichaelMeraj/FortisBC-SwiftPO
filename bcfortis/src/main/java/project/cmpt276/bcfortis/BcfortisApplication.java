@@ -1,13 +1,13 @@
-package com.swift_po.swift_po;
+package project.cmpt276.bcfortis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SwiftPoApplication {
+public class BcfortisApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SwiftPoApplication.class, args);
+		SpringApplication.run(BcfortisApplication.class, args);
 	}
 
 }
