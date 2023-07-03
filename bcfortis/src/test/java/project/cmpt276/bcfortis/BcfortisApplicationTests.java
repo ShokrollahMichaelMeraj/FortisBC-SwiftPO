@@ -1,10 +1,10 @@
-package cmpt276.project.project;
+package project.cmpt276.bcfortis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjectApplicationTests {
+class BcfortisApplicationTests {
 
 	@Test
 	void contextLoads() {
