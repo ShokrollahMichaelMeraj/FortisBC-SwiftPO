@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BcfortisApplication",
+            "request": "launch",
+            "mainClass": "project.cmpt276.bcfortis.BcfortisApplication",
+            "projectName": "bcfortis"
+        },
+        {
+            "type": "java",
             "name": "ProjectApplication",
             "request": "launch",
             "mainClass": "cmpt276.project.project.ProjectApplication",
