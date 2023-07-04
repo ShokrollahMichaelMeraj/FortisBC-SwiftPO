@@ -33,6 +33,7 @@ public class UserController {
     public String getSignUp() {
         return "users/signup";
     }
+    
 
     @PostMapping("users/add")
     public String addUser(@RequestParam Map<String, String> newuser, HttpServletResponse response){
@@ -57,10 +58,6 @@ public class UserController {
         }
     }
 
-    @GetMapping("/signup")
-    public String getSignup(){
-        return "users/signup";
-    }
 
     @PostMapping("/login")
     public String login(@RequestParam Map<String,String> formData, Model model, HttpServletRequest request, HttpSession session){
@@ -79,6 +76,7 @@ public class UserController {
             return "users/form";
         }
     }
+
 
     @GetMapping("/logout")
     public String destroySession(HttpServletRequest request){
