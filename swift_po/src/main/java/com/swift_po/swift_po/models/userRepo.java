@@ -1,4 +1,4 @@
-package project.cmpt276.bcfortis.models;
+package com.swift_po.swift_po.models;
 
 import java.util.List;
 
