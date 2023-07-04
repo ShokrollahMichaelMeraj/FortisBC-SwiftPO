@@ -24,10 +24,14 @@ public class UserController {
     @Autowired
     private userRepo userRepo;
 
-
     @GetMapping("/")
     public RedirectView process(){
         return new RedirectView("/login");
+    }
+
+    @GetMapping("/signup")
+    public String getSignUp() {
+        return "users/signup";
     }
 
     @PostMapping("users/add")
