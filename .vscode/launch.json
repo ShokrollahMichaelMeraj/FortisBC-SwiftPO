@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwiftPoApplication",
+            "request": "launch",
+            "mainClass": "com.swift_po.swift_po.SwiftPoApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "BcfortisApplication",
             "request": "launch",
             "mainClass": "project.cmpt276.bcfortis.BcfortisApplication",

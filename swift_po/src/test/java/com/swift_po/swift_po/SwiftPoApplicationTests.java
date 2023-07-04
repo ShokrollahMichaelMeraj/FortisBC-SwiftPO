@@ -1,10 +1,10 @@
-package project.cmpt276.bcfortis;
+package com.swift_po.swift_po;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BcfortisApplicationTests {
+class SwiftPoApplicationTests {
 
 	@Test
 	void contextLoads() {
