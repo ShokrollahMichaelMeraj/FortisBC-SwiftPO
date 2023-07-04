@@ -24,10 +24,14 @@ public class UserController {
     @Autowired
     private userRepo userRepo;
 
-
     @GetMapping("/")
     public String index(){
         return "users/index";
+    }
+
+    @GetMapping("/signup")
+    public String getSignUp() {
+        return "users/signup";
     }
 
     @PostMapping("users/add")
