@@ -31,6 +31,7 @@ public class UserController {
 
     @GetMapping("/signup")
     public String getSignUp() {
+        System.out.println("Requesting to sign up");
         return "users/signup";
     }
     
@@ -50,9 +51,11 @@ public class UserController {
     public String getLogin(Model model, HttpServletRequest request, HttpSession session){
         users user = (users) session.getAttribute("session_user");
         if (user == null){
+            System.out.println("Unsuccessful login request");
             return "users/login";
         }
         else {
+            System.out.println("login successful");
             model.addAttribute("user",user);
             return "users/form";
         }
@@ -80,7 +83,9 @@ public class UserController {
 
     @GetMapping("/logout")
     public String destroySession(HttpServletRequest request){
+        System.out.println("logout request");
         request.getSession().invalidate();
+        System.out.println("logout request: successful");
         return "/users/login";
     }
 }
