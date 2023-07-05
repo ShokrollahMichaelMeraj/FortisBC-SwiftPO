@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Purchase Order Form</title>
+    <title>Purchase Order Form/title>
 </head>
 <body>
     <div class="flex justify-center items-center min-h-screen" >
         <div class="max-w-md w-full p-6 bg-white rounded-md shadow">
-          <h1 class="text-2xl font-bold mb-6 text-center">Welcome, Users!</span></h1>
+          <h1 class="text-2xl font-bold mb-6 text-center">Welcome, <span th:text="${user.uName}"</span></h1>
           <p class="mb-6 text-center">You have successfully logged in.</p>
           <div class="flex justify-center">
             <a href="/logout" class="py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-600 focus:outline-none focus:bg-blue-600">

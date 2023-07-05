@@ -11,11 +11,19 @@ public class users {
     private int uid;
     private String name;
     private String password;
+    private String uName;
     public users() { 
     }
-    public users(String name, String password) {
+    public users(String name, String password, String uName) {
         this.name = name;
         this.password = password;
+        this.uName = uName;
+    }
+    public String getuName(){
+        return uName;
+    }
+    public void setuName(String uName){
+        this.uName = uName;
     }
     public String getName() {
         return name;
